@@ -1,16 +1,30 @@
-### Hi there 👋
+<h2> Hi there! I'm Syed Farhan.</h2>
 
-<!--
-**born-2learn/born-2learn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Electronics & Communications Engineering at RV College of Engineering, Bangalore.
+- 💼 &nbsp; Working as an SDE Intern at CITRIOT.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Quantum Computing, IoT and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | JavaScript | C/C++ | Java
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Django | Flask
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | Markdown | Selenium  
+- 🖥 &nbsp; Keras | Tensorflow | scikit-learn
+
+<br/>
+
+[![Syed Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=born-2learn&show_icons=true)](https://github.com/born-2learn)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/syedfarhanahmad/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Syed%20Farhan%20Ahmad-blue?style=flat-square&logo=linkedin"></a><br>
+<a href="mailto:syedfarhana.ec18@rvce.edu.in"><img alt="Email" src="https://img.shields.io/badge/Email-syedfarhana.ec18@rvce.edu.in-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+⭐️ From [Syed Farhan](https://github.com/born-2learn)
