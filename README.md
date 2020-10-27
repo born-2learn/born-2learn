@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; Working as a Quantum Research Intern at IBM.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring the Qiskit and pennylane compilers and also working on new Quantum Machine Learning projects.
 - 🎓 &nbsp; Studying Electronics & Communications Engineering at RV College of Engineering, Bangalore.
 - 🌱 &nbsp; Learning more about Quantum Machine Learning, Compiler Architectures and Artificial Intelligence.
 
