@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Working as a **Quantum Research Intern at UCLA**.
+- 🎓 &nbsp; Pursuing **PhD** in Computer Engineering & Quantum Computing at North Carolina State University. 
+- 💼 &nbsp; Worked as a **Quantum Research Intern at UCLA**.
 - 🤔 &nbsp; Exploring the **Qiskit** and **Pennylane** compilers and also working on new **Quantum Machine Learning** projects.
-- 🎓 &nbsp; Studying **Bachelors** in Electronics & Communications Engineering at RV College of Engineering, Bangalore.
 - 🌱 &nbsp; Learning more about **Quantum Machine Learning** and Artificial Intelligence.
 
 <h3>🛠 Tech Stack</h3>
