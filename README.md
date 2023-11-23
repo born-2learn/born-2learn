@@ -1,4 +1,4 @@
-<h2> Hi there! I'm Syed Farhan.[https://born-2learn.github.io/]</h2>
+<h2> Hi there!</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -24,9 +24,5 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/syedfarhanahmad/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Syed%20Farhan%20Ahmad-blue?style=flat-square&logo=linkedin"></a><br>
 <a href="mailto:farhan.tuba@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-farhan.tuba@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [Syed Farhan](https://github.com/born-2learn)  
-https://born-2learn.github.io/  
